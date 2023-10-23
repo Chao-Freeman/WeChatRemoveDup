@@ -2,8 +2,10 @@
 A program that detectes duplicaed files on WeChat and removes it.
 
 # Usage
-'''
+
+
 FileChecker Version 1.1.0
+
         Usage:
                 FileChecker [directory]
 
@@ -16,4 +18,3 @@ FileChecker Version 1.1.0
                 This checker ONLY checks the files directly in the directory.
                 Useful for cleaning WeChat files.
                 对清理重复的微信文件很有帮助。
-'''
