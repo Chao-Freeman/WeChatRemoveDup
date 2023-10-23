@@ -1,7 +1,9 @@
 # WeChatRemoveDup
 A program that detectes duplicaed files on WeChat and removes it.
-
+<a href="https://raw.githubusercontent.com/Chao-Freeman/WeChatRemoveDup/main/Duplication%20Checker.exe">Download Here，在此下载</a>
 # Usage
+
+将微信存储文件夹（如：2023-10）拖动到这个程序上即可
 
 
 FileChecker Version 1.1.0
